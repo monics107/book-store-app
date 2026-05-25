@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,7 +14,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# book-store-app
-📚 LitMart – Modern React Book Store UI  A fully responsive and interactive Book Store web application built using React.js and Tailwind CSS. This project simulates an e-commerce platform where users can browse books, search by title/author, and manage a shopping cart experience similar to Amazon.
->>>>>>> 60470260cc0d11f26f8af8fa6e422e0449085bc0
